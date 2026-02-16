@@ -94,3 +94,7 @@ https://your-ngrok-url/whatsapp
 - Tools are invoked when needed.
 - Response is sent back to the user on WhatsApp.
 
+
+https://github.com/user-attachments/assets/891d1202-da07-49fe-9cc6-7b37638d9bb6
+
+
